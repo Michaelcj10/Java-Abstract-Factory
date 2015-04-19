@@ -1,7 +1,7 @@
 import java.awt.*;
 import java.awt.event.*;
 
-//illustrates use of Abstract Factory pattern
+
 public class Gardener extends Frame
         implements ActionListener {
     private Button Center, Border, Shade, Quit;
