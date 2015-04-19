@@ -1,5 +1,5 @@
 public class Plant {
-    private String name;
+    private final String name;
     public Plant(String pname) {
         name = pname;     //save name
     }

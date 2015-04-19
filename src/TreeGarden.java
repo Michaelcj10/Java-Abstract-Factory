@@ -6,7 +6,7 @@ public class TreeGarden extends Garden {
         return new Plant("Oak");
     }
     public Plant getBorder() {
-        return new Plant("Leburnam");
+        return new Plant("Laburnum");
     }
 
 }
